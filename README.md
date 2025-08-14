@@ -15,6 +15,10 @@ A PyTorch project to train a **time-series GAN** that generates human-like curso
 - **Discriminator:** spectral-normalized Conv1d front-end -> dilated Conv1d stack -> global pooling -> linear scalar score.
 - **Why:** Causality + dilation captures local-to-global motion; TSA adds long-range planning signals; WGAN-GP stabilizes training for time-series.
 
+## Real Human Cursor Data
+
+<img width="799" height="626" alt="Screenshot 2025-08-13 at 6 05 57 PM" src="https://github.com/user-attachments/assets/825ee7da-017a-44dc-9561-aa256a5336d0" />
+
 ## Project Layout
 ```
 ts_gan_project/
