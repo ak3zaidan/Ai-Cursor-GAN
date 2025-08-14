@@ -57,3 +57,8 @@ python inference.py
 ```
 
 Outputs `samples/generated.json` and `samples/sample0.png`.
+
+## Example output
+
+<img width="540" height="171" alt="Screenshot 2025-08-13 at 6 36 21 PM" src="https://github.com/user-attachments/assets/e66c6a16-d74c-4aa3-a0c5-3ac615a740c0" />
+
