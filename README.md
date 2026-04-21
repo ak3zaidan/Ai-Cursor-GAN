@@ -2,7 +2,6 @@
 # Cursor Time-Series GAN (TSA-ResGAN)
 
 - A PyTorch project to train a **time-series GAN** that generates human-like cursor movement sequences from augmented trajectory data.
-- Trained on Oregon State H100 super computer cluster for 3 hours
 
 <img width="431" height="128" alt="Screenshot 2025-08-13 at 6 41 42 PM" src="https://github.com/user-attachments/assets/400eea9a-95af-42e7-95c5-78d0357e131e" />
 
